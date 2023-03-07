@@ -153,7 +153,7 @@ const MainContent = () => {
                 size="small"
               />
             </Box>
-            <ReplayIcon color="primary" sx={{ mt: "5px" }} />
+            <ReplayIcon color="primary" sx={{ mt: "10px", pointer:"cursor" }} />
             <Button
               variant="outlined"
               startIcon={<SearchIcon />}
